@@ -1,0 +1,27 @@
+{
+    "isSuccessful": true,
+    "messagecode": 200,
+    "message": "Success",
+    "accessorieslist": [
+        {
+            "id": 1,
+            "accID_SFDC": "a0X5D000001V2kHUAS",
+            "modelID": "765",
+            "name": "1635",
+            "accPartName": "Body Side Molding _Chromed",
+            "accPartNumber": "6RG071328B DML",
+            "accCommodity": "Electronics and communication",
+            "accProductGroup": "Electronics and communication",
+            "accPrice": "4392.00",
+            "applicableModelGroup": "4KA",
+            "displayName": "Body Side Molding _Chromed",
+            "defaultAccessories": "false",
+            "dependencyAccessories": "false",
+            "notApplicableAccessories": "",
+            "isActive": "true",
+            "fromSFDC": "true",
+            "displayOrder": "1",
+            "lastUpdatedOn": "21-07-2022 19:45:06"
+        }
+    ]
+}

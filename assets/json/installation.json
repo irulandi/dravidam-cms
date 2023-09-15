@@ -1,0 +1,73 @@
+{
+    "isSuccessful": true,
+    "messagecode": 200,
+    "message": "Success",
+    "installations": [
+      {
+        "installationID": 1,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      },
+      {
+        "installationID": 2,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      },
+      {
+        "installationID": 3,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      },
+      {
+        "installationID": 4,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      },
+      {
+        "installationID": 5,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      },
+      {
+        "installationID": 6,
+        "deviceID": "24b413456b1017f8",
+        "deviceOS": "Android",
+        "deviceType": "TAB",
+        "deviceName": "samsung",
+        "osVersion": "15.2.0",
+        "appVersion": "1.0.0",
+        "installationStatus": true,
+        "cretedON": "2022-08-11T13:06:42.66"
+      }
+  ]
+  }

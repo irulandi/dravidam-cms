@@ -1,0 +1,343 @@
+/* put your own styles to customize and override the theme */
+
+.form-buttons {
+    text-align: right;
+    display: block;
+}
+
+.switcher-control-lg .switcher-indicator:before {
+    right: 2.71875rem;
+}
+
+.switcher-control-lg {
+    width: 4.1875rem;
+}
+
+.menutext {
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 200;
+    color: white;
+}
+
+/* .app {
+            height: 100%;
+        }
+
+        .app-main {
+            height: 100%;
+        }*/
+
+table.dataTable {
+    border-collapse: collapse !important;
+    margin-left: -8px;
+}
+
+.container {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    max-width: 100% !important;
+    padding: 17px 20px;
+    overflow-x: hidden !important;
+}
+
+.text-center {
+    text-align: start !important;
+    margin-left: 16px;
+}
+
+/*.card {
+    margin-left: 15px;
+}*/
+
+.image-btn {
+    background-image: url('../images/reports/Excel.png');
+    background-repeat: no-repeat;
+    width: 36px;
+    height: 2.25rem;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0.25rem;
+    border: none;
+}
+
+
+
+.progress_div {
+    display: grid !important;
+}
+
+#overlay {
+    /*background-color: rgba(255,255,255) !important;
+    opacity: 0.7;*/
+    background: #000000;
+    opacity: 0.4;
+    /* background-color: #ffffff;
+            opacity: 0.5;*/
+}
+
+.switcher-input:checked + .switcher-indicator:before {
+    height: 1.5rem;
+}
+
+.switcher-control-lg .switcher-indicator:before {
+    height: 1.5rem;
+}
+/* .btn-secondary {
+            padding: 0px 25px;
+        }*/
+
+
+.page {
+    min-height: calc(91vh - 3.5rem );
+}
+
+.form-group {
+    /* margin-left: 15px;*/
+    /*   width: 25%;*/
+    /*padding: 1px 28px !important;*/
+}
+
+/*.form-control {
+    width: 98% !important;
+}
+
+.custom-select {
+    width: 98% !important;
+}*/
+
+label {
+    color: #5E5E5E;
+    font-weight: 700;
+}
+
+.btn-success {
+    background: #EBF8F6;
+    border: 1px solid #EBF8F6;
+    color: #008974;
+}
+
+.btn-warning {
+    background: #ffff;
+    border: none;
+    color: #F6BA54;
+}
+/*.row {
+    margin-bottom: 7px;
+}*/
+.copyright {
+    margin-top: 12px;
+}
+
+.plus-btn {
+    background: #008974;
+    color: #ffff;
+    border: none;
+}
+/*.btn-warning:hover {
+    color: #ffff !important;
+}*/
+.btn_div {
+    display: flex;
+}
+
+
+
+
+
+.button_div {
+    padding: 0px 25px;
+    margin-right: 1%;
+}
+
+.btn-primary {
+    padding: 0px 28px;
+    /*   margin-left: 15px;*/
+    margin-left: -4px;
+}
+
+.form-actions {
+    justify-content: end !important;
+    margin-right: 18px;
+}
+
+.page-title {
+    color: #5E5E5E;
+}
+
+.status {
+    height: 10px;
+}
+
+/*.card {
+    margin-left: -10px !important;
+    margin-right: -10px !important;
+}*/
+
+.radio_div {
+    margin-top: 6px;
+}
+
+.zone_div {
+    padding-right: 3% !important;
+    padding-left: 1px !important;
+}
+
+.login_text {
+    margin-left: 1px;
+}
+
+.spinner-border {
+    width: 5rem !important;
+    height: 5rem !important;
+    /*  border: 8px solid #f3f3f3;
+                border-top: 8px solid #3498db;*/
+    border-radius: 70%;
+    /*  width: 50px;
+                height: 50px;*/
+    /*    animation: spin 2s linear infinite;*/
+    animation: spinner-border 2s linear infinite;
+    position: fixed;
+    left: 0;
+    top: 40vh;
+    text-align: center;
+    z-index: 101;
+    right: 0;
+    margin: 0 auto;
+    color: #ffff !important;
+    font-size: 20px;
+    /*  display:none;*/
+}
+
+.cv-spinner {
+    background: #000000;
+    opacity: 0.4;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    opacity: 0.4;
+    z-index: 100;
+    /*   display: block;*/
+}
+/*.card-body {
+    display: inline-block;
+    overflow-x: hidden;
+}*/
+.card_div {
+    display: inline-block !important;
+}
+
+.scroll_div {
+    display: block !important;
+    overflow-x: scroll !important;
+}
+
+.errorstring {
+    font-size: 12px;
+    color: #b76ba3;
+}
+
+table.dataTable.nowrap td {
+    white-space: inherit !important;
+}
+
+/*new css*/
+
+/*.metric-label{
+    font-size:20px !important;
+}*/
+
+/*.applabel {
+    width: 50%;
+}*/
+
+/*.staticslabel{
+    width:33%;
+}*/
+
+/*.spacebt{
+    padding-right:40px;
+}*/
+.lead {
+    font-size: 1.800rem !important;
+}
+
+.textbt {
+    font-size: 16px !important;
+    padding-left: 12px;
+    color: #5E5E5E;
+}
+/*.row {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}*/
+
+.value {
+    color: #000 !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+
+/*.card-body{
+    padding: 5px !important;
+}*/
+/*.card{
+    box-shadow:none !important;
+}*/
+
+.img_icon{
+    vertical-align:top !important;
+}
+.imgtxt {
+    margin-left: 42px;
+    margin-top: -16px;
+}
+.text_table {
+    color: #363642 !important;
+}
+.downrowf {
+    margin-top: 5px !important;
+}
+
+/*table Scroll input dashboard*/
+
+
+/*table {
+    width: 400px;
+}*/
+
+/*table end*/  
+
+
+/*dropdownwidth {
+    width: 7.5rem !important;
+}*/
+/*.tableFixHead {
+    width: 500px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.tableFixHead tbody {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    height: 50px;
+}
+
+.tableFixHead thead tr {
+    display: block;
+}
+
+.tableFixHead th,
+.tableFixHead td {
+    padding: 5px 10px;
+    width: 200px;
+}
+*/
+
+

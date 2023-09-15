@@ -1,0 +1,49 @@
+{
+    "isSuccessful": true,
+    "messagecode": 200,
+    "message": "Success",
+    "dealerlist": [
+        {
+            "dealerId": "226",
+            "dealerName": "Volkswagen Ahmedabad, Ashram Road",
+            "dealerAddress": "Sakar-7, B-002, Nehru Bridge Corner, Ashram Road, Ahmedabad, Gujarat",
+            "dealerCity": "Ahmedabad",
+            "dealerState": "Gujarat",
+            "dealerPincode": "380009",
+            "dealerContact": "nisarg@vw-autmark.co.in",
+            "dealerEmail": "nisarg@vw-autmark.co.in",
+            "dealerSalesHeadContact": "9099044390",
+            "dealerCrmEmail": "crmahmedabad@vw-automark.co.in",
+            "kvps": "42052",
+            "website": "http://www.volkswagendealer.co.in/Ahmedabad/volkswagenahmedabadashramroad",
+            "latitude": "23.0246508",
+            "longitude": "72.4989311",
+            "centerLat": "22.4013448",
+            "centerLong": "69.0759647",
+            "rating": "",
+            "totalReviews": null,
+            "lastUpdatedOn": "11-07-2022 00:00:00"
+        },
+        {
+            "dealerId": "225",
+            "dealerName": "Volkswagen Ahmedabad, S.G. Road",
+            "dealerAddress": "West Gate D Block Showroom 6 - 8, Sarkhej - Gandhinagar Hwy, Beside Ymca Club, Ahmedabad, Gujarat",
+            "dealerCity": "Ahmedabad",
+            "dealerState": "Gujarat",
+            "dealerPincode": "380081",
+            "dealerContact": "nisarg@vw-automark.co.in",
+            "dealerEmail": "nisarg@vw-automark.co.in",
+            "dealerSalesHeadContact": "9099044390",
+            "dealerCrmEmail": "crmahmedabad@vw-automark.co.in",
+            "kvps": "2042",
+            "website": "http://www.volkswagendealer.co.in/Ahmedabad/volkswagenahmedabadsgroad",
+            "latitude": "23.0234114",
+            "longitude": "72.4989311",
+            "centerLat": "22.4013448",
+            "centerLong": "69.075964",
+            "rating": "",
+            "totalReviews": null,
+            "lastUpdatedOn": "11-05-2022 00:00:00"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "isSuccessful": true,
+    "messagecode": 200,
+    "message": "Success",
+    "userVehicleMaster": [
+      {
+        "vehicleID": 1,
+        "userID": 1,
+        "userName": "Polo",
+        "vin": "string",
+        "vehicleRegistrationNo": "string",
+        "vehicleModel": "Polo",
+        "modelYear": 0,
+        "engineNo": "string",
+        "exteriorColor": "string",
+        "createdDate": "2022-07-18T17:27:03.3"
+      },
+      {
+        "vehicleID": 2,
+        "userID": 1,
+        "userName": "Polo",
+        "vin": "1234567899",
+        "vehicleRegistrationNo": "string",
+        "vehicleModel": "Polo",
+        "modelYear": 0,
+        "engineNo": "string",
+        "exteriorColor": "string",
+        "createdDate": "2022-07-18T17:27:32.067"
+      },
+      {
+        "vehicleID": 3,
+        "userID": 2,
+        "userName": "Kushaq",
+        "vin": "MEXC22D22NT000383",
+        "vehicleRegistrationNo": "TN20 AA 2235",
+        "vehicleModel": "Kushaq",
+        "modelYear": 2019,
+        "engineNo": "1234",
+        "exteriorColor": "Red",
+        "createdDate": "2022-07-18T17:28:12.96"
+      },
+      {
+        "vehicleID": 2,
+        "userID": 2,
+        "userName": "Polo",
+        "vin": "1234567899",
+        "vehicleRegistrationNo": "string",
+        "vehicleModel": "Polo",
+        "modelYear": 0,
+        "engineNo": "string",
+        "exteriorColor": "string",
+        "createdDate": "2022-07-18T17:27:32.067"
+      }
+  ]
+  }

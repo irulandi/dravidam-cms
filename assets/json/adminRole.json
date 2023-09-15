@@ -1,0 +1,28 @@
+{
+    "isSuccessful": true,
+    "messagecode": 200,
+    "message": "Success",
+    "roleMaster": [
+      {
+        "role_ID": 1,
+        "role_Name": "employee"    },
+      {
+        "role_ID": 4,
+        "role_Name": "supervisor"    },
+      {
+        "role_ID": 5,
+        "role_Name": "TL"    },
+      {
+        "role_ID": 6,
+        "role_Name": "Assistent Manager"    },
+      {
+        "role_ID": 7,
+        "role_Name": "PM"    },
+      {
+        "role_ID": 8,
+        "role_Name": "string"    },
+      {
+        "role_ID": 9,
+        "role_Name": "employee"    }
+    ]
+  }
